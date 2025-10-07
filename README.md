@@ -26,7 +26,7 @@ This project presents a spatial analysis framework to identify high-potential ma
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.11
 - geopandas
 - pandas
 - matplotlib
