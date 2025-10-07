@@ -1,6 +1,8 @@
-# Urban Market Intelligence: Identifying High-Potential Zones for Public Transport Investment in Mexico City
+# Data-Driven Identification of High-Potential Zones for Urban Mobility Investment in Mexico City
 
 ## Abstract
+
+This study demonstrates how open government data can be leveraged to identify high-potential zones for urban mobility investment — offering actionable intelligence for public agencies, private operators, and public-private partnerships. Using only census and transport stop data, we map areas where high population density coincides with poor transport access, providing a transparent, reproducible framework for evidence-based decision-making in dense urban environments.
 
 This project presents a spatial analysis framework to identify high-potential market zones for public transport investment in Mexico City. By integrating census block (AGEB) geometries, population data from the 2020 Mexican Census, and geolocated public transport stops, we quantify spatial mismatches between population density and transit accessibility. The methodology computes population density for each AGEB, measures walking distance to the nearest public transport stop, and flags underserved high-density areas as priority zones for mobility investment. Visualizations and summary statistics highlight the most attractive AGEBs and boroughs for intervention, supporting evidence-based urban planning and policy decisions.
 
